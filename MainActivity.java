@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     private int PICK_NEXT_IMAGE=3;
     private ImageView imageView;
     Bitmap bitmap;
-    private String UPLOAD_URL="http://apphive.co.ke/addressbook/upload.php";
+    private String UPLOAD_URL="#";
     private String KEY_IMAGE = "image";
     private String KEY_ORDER = "order_num";
     private String KEY_COMMENTS="comments";
